@@ -1,4 +1,3 @@
-12345
 
 git status = changes mode or changes mode 
 git add = file name ( we add the file to report)
